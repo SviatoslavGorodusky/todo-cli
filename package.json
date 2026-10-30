@@ -11,5 +11,7 @@
     "seed": "node scripts/seed-todos.js",
     "reset": "node scripts/reset.js",
     "test": "node --test"
-  }
+  },
+  "bin": { "todo": "src/cli.js" }
 }
+

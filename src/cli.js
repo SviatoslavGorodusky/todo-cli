@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Точка входу: argv -> команда -> вивід -> exit code.
 import {
   addTodo,
